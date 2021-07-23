@@ -45,3 +45,12 @@ limit 2;
 
 truncate cursos; #apaga todo banco de dados
 
+DDL - CREATE DATABASE
+	  CREATE TABLE
+      ALTER TABLE
+      DROP TALBLE
+
+DML - INSERT INTO
+	  UPDATE
+      DELETE 
+	  TRUNCATE
